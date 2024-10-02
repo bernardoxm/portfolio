@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "c7e7e82fba3363c81e10d512b440a5ac",
+const RESOURCES = {"flutter_bootstrap.js": "79341fd5f992969a70daaa06319005e8",
 "version.json": "009c9e65172e010890f7f65fde438006",
 "index.html": "92c50367ae9a109beb202e7bf50eb6ce",
 "/": "92c50367ae9a109beb202e7bf50eb6ce",
-"main.dart.js": "b533b57f92cd72008aa2c5fffd817871",
+"main.dart.js": "cfd37c08bf1ab596b30625b39881b558",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -27,7 +27,7 @@ const RESOURCES = {"flutter_bootstrap.js": "c7e7e82fba3363c81e10d512b440a5ac",
 "assets/arcus_wagner.jpeg": "04b47ae26d45dce88d289e42cbbb546e",
 "assets/linkedin_icon.png": "63bdc99f5b04d9b8965af5342c123cc6",
 "assets/pomodoro.png": "f35877d058148e74838088dea1b34990",
-"assets/NOTICES": "cc6e1ec82ae93ac96a372189e662ab5d",
+"assets/NOTICES": "7b25287b3f343bec09369269f3d0428b",
 "assets/marcela_siqueira.jpg": "8d49ac55ac9d5b1e88a6628cadc4e929",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "assets/AssetManifest.bin.json": "4446c963dde6091a6b6de4cb1ae02947",
